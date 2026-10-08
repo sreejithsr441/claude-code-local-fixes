@@ -9,7 +9,7 @@ Claude Code with a model on your own Mac (oMLX, Ollama or LM Studio) breaks in f
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB/ring-zero-examples.git
+git clone https://github.com/sreejithsr441/claude-code-local-fixes.git
 cd ring-zero-examples/claude-code-local-fixes
 ./doctor.sh            # which of the five is it? (read-only; works with the Wi-Fi off)
 ./doctor.sh --tools    # also asks your model to call one tool (fix 5)
